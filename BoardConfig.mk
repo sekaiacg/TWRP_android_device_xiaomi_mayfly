@@ -183,6 +183,6 @@ TW_NO_SCREEN_BLANK := true
 TW_EXCLUDE_APEX := true
 TW_HAS_EDL_MODE := false
 TW_CUSTOM_CPU_TEMP_PATH := "/sys/class/thermal/thermal_zone27/temp"
-TW_BACKUP_EXCLUSIONS := /data/fonts,/data/adb/ksu/modules.img
+TW_BACKUP_EXCLUSIONS := /data/fonts,/data/adb/ap,/data/adb/ksu
 TW_FRAMERATE := 60
 TW_AB_REC := true
